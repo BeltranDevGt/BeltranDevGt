@@ -18,7 +18,7 @@ Estudiante de la carrera técnica en Desarrollo de Software en la Universidad Ga
 ## 📚 Educación y Certificaciones
 * **Técnico en Desarrollo de Software** – Universidad Galileo (En curso)
 * **Python 1** – INTECAP
-* **Desarrollo Web ** – freeCodeCamp  (En progreso)
+* **Desarrollo Web** – freeCodeCamp  (En progreso)
 
 ---
 *Si quieres conocer más sobre mis proyectos o colaborar en algo, ¡no dudes en revisar mis repositorios fijados aquí abajo!*
